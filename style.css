@@ -7,3 +7,8 @@
   color: blue;
   font-size: 50Px;
 }
+/* below is for email button */
+
+.email {
+  text-shadow: lightgreen
+}
